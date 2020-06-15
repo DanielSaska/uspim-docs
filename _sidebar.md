@@ -17,9 +17,6 @@
   - Sample Preparation
     - [Zebrafish Larvae](/sample-prep-zfish.md)
 
-- Advanced Setup
-
-  - [Advanced Database Setup](/database-advanced.md)
-  - [Automated Deployment](/automated-deployment.md)
-
 - Contributing
+  - [Compiling from Source](/compiling.md)
+  - [Changelog](/changelog.md)
