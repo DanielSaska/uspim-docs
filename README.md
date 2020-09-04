@@ -1,7 +1,7 @@
 # What is μSPIM?
-μSPIM is a an all-in-one control solution for a Selective Plane Illumination Microscope (SPIM), build around the open-source [Micro-Manager platform](https://micro-manager.org/) that has been adopted in a wide range of imaging solutions. The main aim of the project is to providea pen-source flexible and hardware-agnostic software solution that can be adapted to the specific lightsheet imaging applications while retaining a gentle learning curve.
+μSPIM Toolset is a an all-in-one control solution for a Selective Plane Illumination Microscope (SPIM), build around the open-source [Micro-Manager platform](https://micro-manager.org/) that has been adopted in a wide range of imaging solutions. The main aim of the project is to providea pen-source flexible and hardware-agnostic software solution that can be adapted to the specific lightsheet imaging applications while retaining a gentle learning curve.
 
-Learn more here: TBD
+Learn more here: [https://doi.org/10.1101/2020.06.15.151993](https://doi.org/10.1101/2020.06.15.151993)
 
 ## Repositories
 Micro-Manager extension: [https://github.com/DanielSaska/uspim-mm](https://github.com/DanielSaska/uspim-mm)  

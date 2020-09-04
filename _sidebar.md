@@ -1,12 +1,9 @@
 <!-- docs/_sidebar.md -->
-- Overview 
 - Setup 
 
-  - [What is SPIM](/what-is-spim.md)
-  - [Building the Microscope](/building-the-microscope.md)
+  - [Microscope Hardware](/microscope-hardware.md)
   - [Computer Hardware](/computer-hardware.md)
   - [Computer Software](/computer-software.md)
-  - [Computer-Microscope Interface](/computer-microscope-interface.md)
   - [Calibration](/calibration.md)
 
 - Usage 
@@ -18,5 +15,6 @@
     - [Zebrafish Larvae](/sample-prep-zfish.md)
 
 - Contributing
+
   - [Compiling from Source](/compiling.md)
   - [Changelog](/changelog.md)
