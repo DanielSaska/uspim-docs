@@ -10,7 +10,6 @@
 
   - [Acquisition](/acquisition.md)
   - [Masks](/masks.md)
-  - [Image Quality](/image-quality.md)
   - Sample Preparation
     - [Zebrafish Larvae](/sample-prep-zfish.md)
 

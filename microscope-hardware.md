@@ -1,6 +1,6 @@
 # Microscope Hardware
-<img src="./img/fig1.png" alt="Photo of an SPIM setup" width="600"/>
-<img src="./img/fig1b.png" alt="Microscope Component Diagram" width="500"/>
+<div align=center><img src="./img/fig1.png" alt="Photo of an SPIM setup" width="600"/>
+<img src="./img/fig1b.png" alt="Microscope Component Diagram" width="500"/></div>
 
 ## Example Microscope Setup
 | Mechanical Parts   | Component (Manufacturer)                                                                |
@@ -46,10 +46,6 @@ piezoelectric stage (P-721 PIFOC High-Precision Objective Scanner, Physik Instru
 movement is synchronised with the Z Galvo scanner to make sure the illumination plane is always in
 the imaging focal plane. The objective and PIFOC scanner are mounted on a manual stage for finding
 the focal plane before starting acquisition.
-Note:
-The beam parameters are calculated using: [http://www.calctool.org/CALC/phys/optics/f_NA](http://www.calctool.org/CALC/phys/optics/f_NA).
-
-<img src="./img/alignment_0.png" alt="Light-Sheet Microscope Hardware Control" width="300"/>
 
 ## Alignment
 **Step 1** Align the illumination arm. Put an alignment plate with 0.9mm pinhole (Thorlabs CPA1) in
@@ -57,28 +53,29 @@ pinhole pos1 and adjust M1 to send the beam into the centre of the pinhole. Then
 alignment plate to pinhole pos2 and adjust M2 to centre the beam in the target. Repeat this
 step, until the beam can go through the pinhole centre in both positions.
 
-<img src="./img/alignment_1.png" alt="Light-Sheet Microscope Hardware Control" width="300"/>
+<div align=center><img src="./img/alignment_1.png" alt="Light-Sheet Microscope Hardware Control" width="300"/></div>
 
 **Step 2** Mount the Galvo scanners. Power on the scanners and set the scanners in the 0 offset
 positions. Loose the fixing screws for both scanners and try to set the beam going through
 the centre of the target placed at pinhole pos3 and pos4 by rotation the scanners. Adjust X
 scanner for pos3 and Z scanner for pos4, respectively. (similar procedure as step 1)
 
-<img src="./img/alignment_2.png" alt="Light-Sheet Microscope Hardware Control" width="600"/>
+<div align=center><img src="./img/alignment_2.png" alt="Light-Sheet Microscope Hardware Control" width="600"/></div>
 
 **Step 3** Shine a laser diode (CPS635R, Thorlabs Inc) from the right side of lens 1, and adjust the
 position of lens 1 to make sure the focal point is sitting between X and Z mirrors.
 
-<img src="./img/alignment_3.png" alt="Light-Sheet Microscope Hardware Control" width="600"/>
+<div align=center><img src="./img/alignment_3.png" alt="Light-Sheet Microscope Hardware Control" width="600"/></div>
 
 **Step 4** With the main laser on, move the position of lens 2 to get a collimated beam out of lens 2.
 
-<img src="./img/alignment_4.png" alt="Light-Sheet Microscope Hardware Control" width="600"/>
+<div align=center><img src="./img/alignment_4.png" alt="Light-Sheet Microscope Hardware Control" width="600"/></div>
 
 **Step 5** Placed the laser diode in the right side of illumination objective and shine the laser through
 objective and lens 2. Move the position of illumination objective to get a collimated beam
 out of lens 2. <br/>
-<img src="./img/alignment_5.png" alt="Light-Sheet Microscope Hardware Control" width="600"/><br/>
+<div align=center><img src="./img/alignment_5.png" alt="Light-Sheet Microscope Hardware Control" width="600"/></div><br/>
+
 **Step 6** Mount objective, tube lens on the posts and stages. Make sure it’s right above the centre of
 the sample chamber. Move the objective close to the sample plane, then shine a laser diode
 (CPS635R, Thorlabs Inc) from the objective side. Check the light spot coming out of the tube
